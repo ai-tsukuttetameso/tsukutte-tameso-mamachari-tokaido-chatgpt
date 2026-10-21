@@ -1,0 +1,4 @@
+output/
+*.zip
+.DS_Store
+.playwright-cli/
